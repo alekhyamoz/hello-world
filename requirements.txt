@@ -5,6 +5,7 @@
 #    pip-compile
 #
 google-cloud-storage==1.42.0
+pytest==6.2.4
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
